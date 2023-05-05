@@ -1,4 +1,4 @@
-# eBike Application Using Streamlit
+# College Information System
 
 ## Description 
 A simple app which implements the CRUD functionalities for demo DBMS class.
@@ -9,11 +9,3 @@ A simple app which implements the CRUD functionalities for demo DBMS class.
     U - Update
     D - Delete
 ```
-
-## Technologies
-The project is created using: 
-* Python
-* Streamlit
-* MySQL
-* Pandas
-* Plotly
